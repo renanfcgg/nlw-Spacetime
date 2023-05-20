@@ -9,7 +9,7 @@
 }
 
 ::-webkit-scrollbar {
-  width: 20px;
+  width: 8px;
 }
 
 ::-webkit-scrollbar-track {
@@ -90,7 +90,7 @@ p {
 }
 
 .memory:hover img {
-  transform: scale(1.1);
+  transform: scale(1.025);
 }
 
 .memory p {
