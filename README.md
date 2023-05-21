@@ -13,7 +13,7 @@
 <p>
  Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias: 
  <div><br/>
-  <img align="center" alt="Renan-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renan-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  - <img align="center" alt="Renan-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br/>
+  - <img align="center" alt="Renan-Js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 </p>
